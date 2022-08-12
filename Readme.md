@@ -11,11 +11,11 @@ The [@dog_rates](https://twitter.com/dog_rates) twitter account rates people's d
 
 Some important pointers were deduced from the data wrangling and exploration process:
 
-- the dogs on the WeRateDogs Twitter page averagely had a rating greater than 10, with most dogs falling in the 12 rating, and some going as high as 14 and 13 numerous times. In fact, a larger percentile of the dogs featured on the page had their ratings in the 11, 12 and 13 range.![Dog_Ratings.png](attachment:Dog_Ratings.png)
+- the dogs on the WeRateDogs Twitter page averagely had a rating greater than 10, with most dogs falling in the 12 rating, and some going as high as 14 and 13 numerous times. In fact, a larger percentile of the dogs featured on the page had their ratings in the 11, 12 and 13 range.![Dog_Ratings.png](C:\Users\USER\project\Data Wrangling\Dog_Ratings.png)
 
 - The WeRateDogs Twitter page boast a high followership for each post, with an average of approximately 2343 retweets. However, the page has also great highs, with a post generating as much as 70791 retweets. Users also seem have a huge likeness for the content being produced by the WeRateDogs page, judging from an average of 7413 favorite counts per post, and a maximum high of 144960 for one single post. As such, the followers and users of the twitter page seem to be overly satisified with the content being curated on the page.
 
-All in all, there are a lot of breeds being displayed on the WeRateDogs Twitter page, with breeds like Golden Retriever, Labrador Retriever, Pembroke and Chihuahua all being showcased more than once. This is a testament to the diversity of the dog breeds on the page, considering how many dogs could not be classified by breeds as at the time they were posted, and the continued acceptance by users to allow the feature of their adorable dogs with unique ratings only found on the page.![Dog_Breed.png](attachment:Dog_Breed.png)
+All in all, there are a lot of breeds being displayed on the WeRateDogs Twitter page, with breeds like Golden Retriever, Labrador Retriever, Pembroke and Chihuahua all being showcased more than once. This is a testament to the diversity of the dog breeds on the page, considering how many dogs could not be classified by breeds as at the time they were posted, and the continued acceptance by users to allow the feature of their adorable dogs with unique ratings only found on the page.![Dog_Breed.png](C:\Users\USER\project\Data Wrangling\Dog_Breed.png)
 
 ## Key Insights
 
